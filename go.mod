@@ -1,6 +1,6 @@
 module open-mihomo-gateway
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/metacubex/bbolt v0.0.0-20260706163408-d4ec34ad7c48
@@ -15,7 +15,7 @@ require (
 	golang.org/x/mod v0.18.0 // indirect
 	golang.org/x/net v0.28.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/text v0.17.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
 )
